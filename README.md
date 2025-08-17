@@ -9,3 +9,4 @@ Job Satisfaction:
 Sales Executives have the highest dissatisfaction (123 employees), indicating pressure in sales-driven roles.
 Research Scientists (107) and Lab Technicians (104) also show high dissatisfaction.
 Conclusion: The analysis reveals that R&D  department is the most critical pain point, with attrition exceeding 50%,particularly among employees aged 25-34.To address this,Hr should prioritize initiatives focused on career growth,employee recognition,competitive benefits,and gender-balanced policies to reduce turnover and retain skilled talent.
+##Dashboard Preview :
